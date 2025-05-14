@@ -7,36 +7,54 @@
         <!--This is the icon for the tab on the browser"-->
         <link rel = "icon" href = "Tab_Icon.jpg">
         <!--This links our HTML document to the CSS style sheet-->
-        <link rel="stylesheet" href="Portfolio.css">
+        <link rel="stylesheet" href="_css/Portfolio.css">
         </head>
         <!--head refers to tab in tab bar-->
         <!--body refers to actual webpage-->
 
+        
+
         <body>
-            <h3 align = "center">Hi, My name is</h3>
+            <header>
+                <nav class="navbar">
+                    <ul>
+                        <li><a href= "Portfolio.html">Home</a></li>
+                        <li><a href = "Projects.html">Projects</a></li>
+                        <li><a href = "https://github.com/Jessebalves" alt="My LinkedIn Page">GitHub</a></li>
+                        <li><a href = "https://www.linkedin.com/in/jessebalves10/" alt="My LinkedIn Page">LinkedIn</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <!--<h1 style= "text-align:center;font-weight: bold; font-size: 2.5em;">Home</h1>
+
+            <br><br><br>-->
+
+            <h3 style="text-align: center;" align = "center"><small>Hi, My name is</small></h3>
+
             <h1 id="Greeting" style = "font-weight: bold; font-size: 2.5em;">Jesse B. Alves</h1>
 
             <div id="box1">
-                <img src="Jess_Ugly_Ass.jpg" id = "logo"  alt = "logo for website">
+                <img src="_assets/Jess_Ugly_Ass.jpg" id = "logo"  alt = "logo for website">
             </div>
 
-            <h3 align="center" style = "font-size: 18px;">Software Engineer</h3>
+            <h3 align="center" style = "font-size: 18px;"><small>Software Engineer</small></h3>
 
             <!--GitHub and LinkedIn icons that lead to my accounts-->
-            <a href = https://github.com/Jessebalves>
+           <!-- <a href = https://github.com/Jessebalves>
             <img src = "Ghub_icon.png" id = "GitHub_Icon" alt = "Check out my GitHub" style = "display:inline-block">
             </a>
 
 
             <a href = "https://www.linkedin.com/in/jessebalves10/" alt="My LinkedIn Page">
-                <img src = "ohyeavector.png" id="LinkedIN_Logo">
+                <img src = "ohyeavector.png" id="LinkedIN_Logo">-->
             </a>
 
             <br>
 
             <main>
     
-                <div id = "main_box">
+                <div class = "main_box">
                     <h1>About Me</h1>
                     <hr>
                     <p>I first came into contact with programming through courses offered by my highschool and my older brother who is a web developer. From a young age, I was constantly being exposed to technology and ended up falling in love with what technology is capable of accomplishing. I was curious to learn more and decided to go to college for Computer Science.</p>
@@ -104,6 +122,6 @@
             </main>
 
                 
-            <script src="Portfolio.js"> </script>
+            <script src="_js/Portfolio.js"> </script>
             </body>
 </html>

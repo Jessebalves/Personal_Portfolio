@@ -1,1 +1,0 @@
-document.getElementById("Paper_Sunday").textContent="X";

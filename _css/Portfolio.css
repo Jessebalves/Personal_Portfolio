@@ -2,50 +2,12 @@ body{
     background-color: rgba(233, 226, 226, 0.801);
 }
 
-.navbar ul{
-    list-style-type:none;
-    display: flex;
-    background-color: hsl(0, 0%, 25%);
-    padding: 0px;
-    margin:-10px;
-    position: relative;
-    width: 100.9%;
-    height: auto;
-    overflow:hidden;
-}
-
-.navbar a{
-    color: white;
-    text-decoration: none;
-    padding: 18px;
-    display:block;
-    width: 28em;
-    text-align: center;
-}
-
-.navbar a:hover{
-    background-color:hsl(0, 0%, 10%); 
-}
-
-.navbar li{
-    float:none;
-    width: 100%;
-
-}
-
-#Greeting,h4{
-    display: block;
-    text-align: center;
-    font-size: 2em;
-    font-style: bold;
-    font-family: "Roboto";
-}
-
 h3{
     font-family: "Roboto";
 }
 
-
+/* CLASSES MANIPULATED BY CSS */
+/* CSS section for white boxes used on Portfolio.html and Projects.html */
 .main_box{
     background-color: white;
     width: 50%;
@@ -57,17 +19,64 @@ h3{
     display:flex-box;
 }
 
+/* Navigation Bar CSS */
+.navbar ul{
+    list-style-type:none;
+    display: flex;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0%;
+    padding-right:5%;
+    margin:-10px;
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow:hidden;
+}
 
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 4%;
+    display:block;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    text-align: center;
+}
+
+/* When hovering over the navigation bar */
+.navbar a:hover{
+    background-color:hsl(0, 0%, 10%); 
+}
+
+.navbar li{
+    float:none;
+    width: 100%;
+
+}
+
+
+/* IDS MANIPULATED BY CSS */
+/* ID associated with image of myself */
 #logo{
     border-radius: 50%;
-    width: 400px;
-    height: 400px;
+    width: 40%;
+    height: 400%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 99%;
 }
 
+#Greeting,h4{
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-style: bold;
+    font-family: "Roboto";
+}
+
+/* ID associated with the black box behind the image of me */
 #box1{
     background-color: black;
     box-shadow: 5px 3px 3px black;
@@ -78,17 +87,39 @@ h3{
     border-radius: 100%;
 }
 
+/* GitHub Icon Image */
 #GitHub_Icon{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 5%;
-    height:5%;
+    height:auto;
 }
 
+/* LinkedIn Icon Image */
 #LinkedIN_Logo{
-    width: 5%;
-    height: 5%;
+    width: 10%;
+    height: 10%;
     border-radius: 50%;
     display: inline;
+}
+
+
+
+/* This section of CSS is designated for phone screen viewing */
+@media screen and (max-width:600px){
+    #logo{
+        width: 100%;
+    }
+    #GitHub_Icon{
+        width: 12%;
+    }
+    .main_box{
+        width: 65%;
+        height:auto;
+    }
+    .navbar a{
+        padding: 8%;
+    }
+
 }

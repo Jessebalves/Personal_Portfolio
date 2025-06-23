@@ -97,10 +97,18 @@ h3{
 }
 
 #internetoo{
-    width: 9.5%;
-    border-radius: 700%;
+    width: 10%;
+    max-width: 10%;
+    border-radius: 70%;
     float: left;
     display: inline;
+}
+
+#testo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120%;
 }
 
 #frames{
@@ -126,11 +134,15 @@ h3{
         width: 12%;
     }
     #internetoo{
-        width:12%;
+        width:9%;
     }
     .main_box{
         width: 65%;
         height:auto;
+    }
+    #internetoo{
+        max-width: 12%;
+        width:12%
     }
 
     .navbar a{

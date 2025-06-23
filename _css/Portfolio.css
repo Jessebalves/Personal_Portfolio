@@ -96,12 +96,23 @@ h3{
     object-fit: contain;
 }
 
+#internetoo{
+    width: 7%;
+    border-radius: 50%;
+    float: left;
+    display: inline;
+}
+
+#frames{
+    display: inline-block;
+}
+
 /* LinkedIn Icon Image */
 #LinkedIN_Logo{
     width: 10%;
     height: 10%;
     border-radius: 50%;
-    display: inline;
+    display: auto;
 }
 
 

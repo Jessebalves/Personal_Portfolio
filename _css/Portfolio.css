@@ -92,13 +92,13 @@ h3{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 2.8em;
+    max-width: 3em;
     object-fit: contain;
 }
 
 #internetoo{
-    width: 7%;
-    border-radius: 50%;
+    width: 9.5%;
+    border-radius: 700%;
     float: left;
     display: inline;
 }
@@ -125,11 +125,14 @@ h3{
     #GitHub_Icon{
         width: 12%;
     }
+    #internetoo{
+        width:12%;
+    }
     .main_box{
         width: 65%;
         height:auto;
     }
-    
+
     .navbar a{
         padding: 8%;
     }

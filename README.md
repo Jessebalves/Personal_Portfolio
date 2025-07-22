@@ -4,6 +4,6 @@ This is the GitHub repository that has all the resources for https://jessebalves
 ## Programming Languages and Technologies Used
 - HTML
 - CSS
-- Nginx
+- NGINX
 - DigitalOcean
 - Cloudflare

@@ -85,11 +85,6 @@ Live Website : https://keanroutes.com
 ## Contact
 <!--- *First and last name* - *Email address*-->
 - *Jesse Alves* - *jessebalves@gmail.com*
-- *Tiffany Choi* - *tcsz412@gmail.com*
-- *Ryan Guillen* - *ryanguillen2004@gmail.com*
-- *Bryan Ortega* - *bryanortega2001@gmail.com*
-- *Alexander Ribau* - *tigjho@gmail.com*
-<!--- *Any other contact information*-->
 
 ## Acknowledgments
 *Credits to individuals or resources that helped you during the project.*

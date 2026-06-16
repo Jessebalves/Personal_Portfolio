@@ -28,9 +28,7 @@ This is the GitHub repository that has all the resources for https://jessebalves
 
 
 ## Summary
-*KeanRoutes is an web application created to help students of Kean University in Union to navigate campus more efficiently.
-All of the developers on this project understand how daunting and confusing navigating Kean's campus for the first
-time can be, as we were all freshman or transfer students trying to navigate our way around campus at one point.*  
+*Personal Portfolio Website that highlights all my education and experience related to Software Engineering.*  
 
 ## Usage
 To use this software, you only need to have Visual Studio Code installed along with the extension Live Server! You can also go directly to the website for a live demo.  

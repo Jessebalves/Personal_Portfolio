@@ -64,7 +64,7 @@ Live Website : https://keanroutes.com
 
 ## Setup and Installation
 *Provide a clear, step-by-step guide to set up the project locally.*
-1. Clone the repo: `git clone https://github.com/Jessebalves/KeanRoutes.git`
+1. Clone the repo: `git clone https://github.com/Jessebalves/Personal_Portfolio.git`
 2. Install dependencies: `[Example Command]`
 3. Additional steps...
 

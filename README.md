@@ -31,9 +31,7 @@
 *Personal Portfolio Website that highlights all my education and experience related to Software Engineering.*  
 
 ## Usage
-To use this software, you only need to have Visual Studio Code installed along with the extension Live Server! You can also go directly to the website for a live demo.  
-Visual Studio Code Download Link : http://code.visualstudio.com/download  
-Live Website : https://keanroutes.com
+Live Website : https://jessebalves.com
 
 * Steps
   - Download the corresponding download package of the Operating System you are using.

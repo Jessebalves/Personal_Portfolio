@@ -34,8 +34,8 @@
 Live Website : https://jessebalves.com
 
 * Steps
-  - Download the corresponding download package of the Operating System you are using.
-  - After the download is complete, run the executable file to begin the setup.
+  - Home page contains professional summary, work experience, and education.
+  - Projects page includes all of my personal projects with links to their respective Github repositories, which details which technologies were used.
 
 ## Features
   - Navigation Bar : Contains a concise list of academic buildings, food spots, events, and other locations such as convienence stores and gas stations.

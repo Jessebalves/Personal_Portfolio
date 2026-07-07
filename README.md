@@ -31,9 +31,7 @@
 *Personal Portfolio Website that highlights all my education and experience related to Software Engineering.*  
 
 ## Usage
-Live Website : https://jessebalves.com
-
-* Steps
+* Live Website : https://jessebalves.com
   - Home page contains professional summary, work experience, and education.
   - Projects page includes all of my personal projects with links to their respective Github repositories, which details which technologies were used.
 

@@ -70,11 +70,11 @@
 ## Code Examples
 *Show small, but significant snippets of code from your project.*
 
-## How to Contribute
-*Encourage contributions and provide guidelines for how others can help.*
+<!--## How to Contribute
+*Encourage contributions and provide guidelines for how others can help.*-->
 
-## License
-*State the license under which your project is available.*
+<!--## License
+*State the license under which your project is available.*-->
 
 ## Contact
 <!--- *First and last name* - *Email address*-->

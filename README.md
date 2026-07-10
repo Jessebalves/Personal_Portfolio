@@ -15,12 +15,10 @@
 - [Features](#features)
 - [Visuals](#visuals)
 - [Technologies](#technologies)
-- [What We Learned](#what-we-learned)
+- [What I Learned](#what-i-learned)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Code Examples](#code-examples)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -56,7 +54,7 @@
 - Cloudflare
 
 
-## What We Learned
+## What I Learned
 
 ## Setup and Installation
 *Provide a clear, step-by-step guide to set up the project locally.*

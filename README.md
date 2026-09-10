@@ -56,12 +56,6 @@
 
 ## What I Learned
 
-## Setup and Installation
-*Provide a clear, step-by-step guide to set up the project locally.*
-1. Clone the repo: `git clone https://github.com/Jessebalves/Personal_Portfolio.git`
-2. Install dependencies: `[Example Command]`
-3. Additional steps...
-
 ## Usage
 *Guide on how to use the project, include example commands or scripts.*
 

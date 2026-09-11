@@ -26,7 +26,7 @@
 
 
 ## Summary
-*Personal Portfolio Website that highlights all my education and experience related to Software Engineering.*  
+*Personal portfolio website that highlights all my education and experience related to software engineering.*  
 
 ## Usage
   - Live Website : https://jessebalves.com

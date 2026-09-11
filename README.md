@@ -69,4 +69,4 @@
 
 ## Acknowledgments
 <!--*Credits to individuals or resources that helped you during the project.*-->
-- *How to Host Website using DigitalOcean and Cloudflare* - https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-18-04
+- *How to Host Website using Cloudflare and NGINX* - https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-18-04

@@ -34,7 +34,7 @@
   - Projects page includes all of my personal projects with links to their respective Github repositories, which details which technologies were used.
 
 ## Features
-  - Navigation Bar : Redirects users to main page of the website, a page containing information on all my personal projects, as well as my GitHub and LinkedIn profiles.
+  - Navigation Bar : Redirects users to the main home page of the website, a projects page containing information on all my personal projects, as well as my direct links to my GitHub and LinkedIn profiles.
 
 ## Visuals
 <img width="1440" height="778" alt="Screenshot 2026-05-29 at 3 58 29 PM" src="https://github.com/user-attachments/assets/e4b0ce14-043f-47a6-a3f3-a5f7eea9fa1b" />

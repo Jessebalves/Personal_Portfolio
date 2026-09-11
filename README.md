@@ -34,12 +34,7 @@
   - Projects page includes all of my personal projects with links to their respective Github repositories, which details which technologies were used.
 
 ## Features
-  - Navigation Bar : Contains a concise list of academic buildings, food spots, events, and other locations such as convienence stores and gas stations.
-  - Navigation Bar Search Bar : Allows for users to enter keywords which minimize the number of entries present in the navigation bar only related to the keyword entered.
-  - Interactive Map : Map that allows users to zoom in and out.
-  - Location Tracking : Live tracking feature that is updated when the user changes their current location.
-  - GPS Routing : Live routing, distance from destination in miles displayed, time from destination is displayed as well.
-  - Map Markers : Custom visual markers to highlight locations associated with Kean University.
+  - Navigation Bar : Redirects users to main page of the website, a page containing information on all my personal projects, as well as my GitHub and LinkedIn profiles.
 
 ## Visuals
 <img width="1440" height="778" alt="Screenshot 2026-05-29 at 3 58 29 PM" src="https://github.com/user-attachments/assets/e4b0ce14-043f-47a6-a3f3-a5f7eea9fa1b" />
